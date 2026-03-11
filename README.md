@@ -4,6 +4,9 @@
 
 ## Análisis
 
+<img width="1170" height="1280" alt="imagen" src="https://github.com/user-attachments/assets/065cba9d-f676-4c0f-9396-aebec2f08728" />
+
+
 ### Articulación 1
 -Traslación en z0 por l1(t)
 -Rotación de 90° negativo en x0
